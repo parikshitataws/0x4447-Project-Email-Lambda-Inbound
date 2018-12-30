@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0x4447/0x4447-Project-Email-Lambda-Inbound.git"
+    "url": "git+https://github.com/parikshitataws/0x4447-Project-Email-Lambda-Inbound"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0x4447/0x4447-Project-Email-Lambda-Inbound/issues"
+    "url": "https://github.com/parikshitataws/0x4447-Project-Email-Lambda-Inbound/issues"
   },
-  "homepage": "https://github.com/0x4447/0x4447-Project-Email-Lambda-Inbound#readme"
+  "homepage": "https://github.com/parikshitataws/0x4447-Project-Email-Lambda-Inbound#readme"
 }
